@@ -1,4 +1,4 @@
-## 🐍 Python Projects Collection!!
+## 🐍 Python Projects Collection!
 
 This repository contains multiple fun, creative, and practical Python projects built for learning, experimentation, and real-world problem solving.
 
